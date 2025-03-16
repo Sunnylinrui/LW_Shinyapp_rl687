@@ -1,0 +1,12 @@
+name: Practical6
+title: Practical6
+username: starrylin
+account: starrylin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14186637
+bundleId: 9940006
+url: https://starrylin.shinyapps.io/Practical6/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
